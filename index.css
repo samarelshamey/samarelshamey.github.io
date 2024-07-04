@@ -30,7 +30,7 @@ header .highlight, header .current a {
 }
 
 #showcase {
-    background: no-repeat center right;
+    background: no-repeat center center;
     background-size: cover;
     min-height: 400px;
     text-align: center;
